@@ -17,7 +17,7 @@ public class HomeController : Controller
     {
         return View();
     }
-      public IActionResult Home()
+      public IActionResult Homes()
     {
         return View();
     }
